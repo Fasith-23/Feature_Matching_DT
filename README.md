@@ -1,3 +1,6 @@
+## DETAILS
+Check the Pdf file [here](https://github.com/Fasith-23/Feature_Matching_DT/blob/main/ED5310%20-%20Project.pdf)
+
 ## __Instructions:__
 
 ## Input data:
